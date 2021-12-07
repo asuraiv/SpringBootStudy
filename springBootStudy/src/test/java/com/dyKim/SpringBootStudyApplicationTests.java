@@ -1,4 +1,4 @@
-package com.dyKim.springBootStudy;
+package com.dyKim;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.junit.jupiter.api.Test;
